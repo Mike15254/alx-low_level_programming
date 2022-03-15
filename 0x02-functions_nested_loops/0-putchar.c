@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 /**
  * main - Prints the alphabet without q and e.
@@ -15,3 +14,4 @@ int main(void) {
 
 	return(0);
 }
+
