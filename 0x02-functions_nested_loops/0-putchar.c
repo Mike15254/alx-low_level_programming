@@ -6,10 +6,11 @@
  */
 
 
-int main () {
+int main(void) {
 
-	char _putchar;
-	putchar(_putchar);
+	char ch="_putchar";
+	putchar(ch);
+	putchar("\n");
 
 	return(0);
 }
