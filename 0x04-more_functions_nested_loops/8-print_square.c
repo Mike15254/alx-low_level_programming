@@ -5,10 +5,9 @@
  * @size: size of the square.
  * Return: no return.
  */
-
-void _print_square(int size)
+void print_square(int size)
 {
-	int i,j;
+	int i, j;
 
 	for (i = 0; i < size; i++)
 	{
@@ -21,5 +20,4 @@ void _print_square(int size)
 	}
 	_putchar('\n');
 }
-
 
